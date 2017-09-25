@@ -9,12 +9,13 @@ d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\N
 d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
 d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DiscordBot.exe.config
-D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.exe
-D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.pdb
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DiscordBot.exe
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DiscordBot.pdb
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DSharpPlus.CommandsNext.dll
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DSharpPlus.dll
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\Newtonsoft.Json.dll
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DSharpPlus.xml
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DSharpPlus.CommandsNext.xml
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\Newtonsoft.Json.xml
-D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.exe
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.pdb
