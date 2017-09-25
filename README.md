@@ -1,11 +1,11 @@
 # discordbot_basics
-Basic Discord Bot using C#
+Basic Discord Bot using C#<br/><br/>
 
-Discord bot functionality
--Music
--Calendar invites
--Discord welcome message (social media)
--Simplicity
--Reminder system
--Ongoing repeating messages
--Help messages
+Discord bot functionality<br/>
+-Music <br/>
+-Calendar invites<br/>
+-Discord welcome message (social media)<br/>
+-Simplicity<br/>
+-Reminder system<br/>
+-Ongoing repeating messages<br/>
+-Help messages<br/>
