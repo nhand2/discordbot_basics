@@ -23,8 +23,11 @@ namespace DiscordBot
 
             discord.MessageCreated += async e =>
             {
-                if (e.Message.Content.ToLower().StartsWith("ping"))
-                    await e.Message.RespondAsync("pong!");
+                if (e.Message.Content.ToLower().StartsWith("ganbate."))
+                {
+                    if (e.Message.Content.ToLower().Contains("hello"))
+                        await e.Message.RespondAsync("はじめまして。");
+                }
             };
 
             await discord.ConnectAsync();
