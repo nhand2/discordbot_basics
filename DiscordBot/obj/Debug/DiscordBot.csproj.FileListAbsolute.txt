@@ -1,0 +1,13 @@
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DSharpPlus.dll
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.dll
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DSharpPlus.xml
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+d:\derek\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\DiscordBot.exe.config
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.exe
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.pdb
