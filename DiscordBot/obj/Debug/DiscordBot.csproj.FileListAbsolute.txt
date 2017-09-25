@@ -19,3 +19,4 @@ D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\b
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\bin\Debug\Newtonsoft.Json.xml
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.exe
 D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.pdb
+D:\Derek\Documents\Visual Studio 2015\GitHubRepos\discordbot_basics\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache

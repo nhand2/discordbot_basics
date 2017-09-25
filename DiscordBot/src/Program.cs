@@ -1,5 +1,6 @@
 ﻿using System;
 using DSharpPlus;
+using DSharpPlus.CommandsNext;
 using System.Threading.Tasks;
 
 namespace DiscordBot
@@ -7,6 +8,7 @@ namespace DiscordBot
     class Program
     {
         static DiscordClient discord;
+        static CommandsNextModule commands;
 
         static void Main(string[] args)
         {
@@ -18,14 +20,17 @@ namespace DiscordBot
             discord = new DiscordClient(new DiscordConfiguration
             {
                 Token = "MzYxNjY2OTUxODk2MTA0OTYy.DKncLA.pu6WUjDFSFJFI7331ThYXu29GkM",
-                TokenType = TokenType.Bot
+                TokenType = TokenType.Bot,
+                UseInternalLogHandler = true,
+                LogLevel = LogLevel.Debug
             });
 
-            discord.MessageCreated += async e =>
+            commands = discord.UseCommandsNext(new CommandsNextConfiguration
             {
-                if (e.Message.Content.ToLower().StartsWith("ping"))
-                    await e.Message.RespondAsync("pong!");
-            };
+                StringPrefix = "g."
+            });
+
+            commands.RegisterCommands<Commands>();
 
             await discord.ConnectAsync();
             await Task.Delay(-1);
